@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for New Braunfels, Texas. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in New Braunfels, Texas, US",
+  "export_job_id": "34233e96-81ae-4683-a458-2bb4bb349401",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 582478,
+  "location_name": "New Braunfels",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-new-braunfels-texas-us-sample-582478",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/582478/beamstation_582478_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.95,
+  "sample_records": 21,
+  "sample_sha256": "1a33636bde83aec05a65fbfafa1655e39259064648c055ce5d41ecac0fa2e8d4",
+  "sample_size_bytes": 94887,
+  "total_records": 211,
+  "updated_at": "2026-04-09T11:34:05.294720+00:00"
+}
