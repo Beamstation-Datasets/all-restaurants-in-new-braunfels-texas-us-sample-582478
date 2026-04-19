@@ -1,12 +1,12 @@
 {
-  "export_job_id": "34233e96-81ae-4683-a458-2bb4bb349401",
+  "export_job_id": "3c6046a8-c1f8-43a4-9c7f-b25bf7e991b8",
   "id_short": 582478,
-  "published_at": "2026-04-11T19:20:01Z",
+  "published_at": "2026-04-19T19:18:56Z",
   "repo_name": "all-restaurants-in-new-braunfels-texas-us-sample-582478",
   "sample_asset_name": "beamstation_582478_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/582478/beamstation_582478_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 21,
-  "sample_sha256": "1a33636bde83aec05a65fbfafa1655e39259064648c055ce5d41ecac0fa2e8d4",
-  "sample_size_bytes": 94887,
-  "total_records": 211
+  "sample_records": 23,
+  "sample_sha256": "fa79fab3424cf8428caaf9e791c960335047a561092bd8b7eefe531a198d26e1",
+  "sample_size_bytes": 53071,
+  "total_records": 236
 }
