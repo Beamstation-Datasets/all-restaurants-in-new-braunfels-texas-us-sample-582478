@@ -1,6 +1,6 @@
 # All Restaurants in New Braunfels, Texas, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 27 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `582478` |
 | Location | New Braunfels |
 | Category | Restaurants |
-| Full dataset size | 229 records |
-| Free sample size | 22 records (9.61%) |
-| Last export | 2026-04-23T11:07:50.641791+00:00 |
+| Full dataset size | 275 records |
+| Free sample size | 27 records (9.82%) |
+| Last export | 2026-04-30T11:16:10.446810+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-new-braunfels-texas-us-sample-582478/releases/download/sample-latest/beamstation_582478_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
